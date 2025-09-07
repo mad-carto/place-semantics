@@ -3,18 +3,13 @@
 
 """
 
-This script is part of the supplementary material for the paper:
-
-    Assessing Place Similarity by Inferring and Modeling Place Semantics 
-    from Geosocial Media Data
-
-It computes post-level embeddings and H3 cell-level place embeddings using topic assignments
-from a trained Geo-BERTopic model. Embeddings are stored in SQLite databases for use
-in downstream place-based semantic search and similarity analysis.
+This script computes post-level embeddings and H3 cell-level place embeddings using topic 
+assignments from a trained Geo-BERTopic model. Embeddings are stored in SQLite databases 
+for use in downstream place-based semantic search and similarity analysis.
 
 The model used for computing the embeddings is the `midGeoTextEmb` BERTopic model,
 which combines semantic and spatial information with a weighting scheme of (0.3, 0.7).
-This configuration was selected based on evaluation results detailed in the companion
+This configuration was selected based on evaluation results detailed in the accompanying
 Jupyter notebook `Evaluation.ipynb`.
 
 Data availability:
