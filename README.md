@@ -70,6 +70,5 @@ Generated within:
 
 If you use this repository, please cite the associated article
 
-**Article (status: in press / forthcoming)**  
 > Gugulica and Burghardt. 2005. “From Public Discourse to Place Semantics: Modeling Semantic Similarity of Places using Geosocial Media Data” *International Journal of Geographical Information Science (IJGIS). * **In Press** DOI to be added upon publication.
 > 
