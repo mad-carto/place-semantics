@@ -1,17 +1,11 @@
 # -*- coding: utf-8 -*-
 # Train H3-based Spatial Embeddings Using Word2Vec
 """
-
-This script is part of the supplementary material for the paper:
-
-    Assessing Place Similarity by Inferring and Modeling Place Semantics 
-    from Geosocial Media Data
-
-It uses H3 hexagonal spatial indices and Word2Vec to learn location embeddings 
+This script uses H3 hexagonal spatial indices and Word2Vec to learn location embeddings 
 based on adjacency-based topological relationships (neighboring cells).
 
 By treating H3 cell indices as "words" and their neighbors as "context," we apply the 
-Word2Vec skip-gram modelto learn vector representations of geolocations. This captures
+Word2Vec skip-gram model to learn vector representations of geolocations. This captures
 the spatial relationships between cells in a similar way to how Word2Vec captures semantic and
 syntactic relationships in language.
 
