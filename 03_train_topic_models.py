@@ -3,12 +3,7 @@
 
 """
 
-This script is part of the supplementary material for the paper:
-
-    Assessing Place Similarity by Inferring and Modeling Place Semantics 
-    from Geosocial Media Data
-
-It combines sentence-transformers text embeddings with location embeddings trained with
+This script combines sentence-transformers text embeddings with location embeddings trained with
 the h32vec model (see script 02_train_h32vec.py) to train four BERTopic models on different
 embeddings: a baseline model (TextEmb) with sentence-transformers text embeddings, and three
 different models based on the GeoText embeddings computed based on 3 different weightings
