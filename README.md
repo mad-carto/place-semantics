@@ -25,6 +25,14 @@ All required Python packages and their versions are specified in the environment
     - Pandas, NumPy, SciPy, Matplotlib, Seaborn for data manipulation and visualization
     - scikit-learn and NLTK for additional preprocessing and modeling tasks
     - SQLite for database management of embeddings
+
+## Data availability:
+The original geosocial media data used in this study, comprising GSM posts from Instagram, Flickr, and X (formerly Twitter), cannot be publicly shared. All data were collected via official APIs or authorized services that, at the time of collection, explicitly prohibited redistribution of user-generated content, in accordance with their respective terms of service (e.g., the Twitter Developer Agreement and Instagram’s API Terms of Use). Although these agreements are no longer publicly accessible due to platform ownership changes and service restructuring, the restrictions were in effect and strictly followed during the data acquisition period. 
+
+To support methodological transparency and facilitate replication of the methodology, we provide a representative subset of openly available Flickr data extracted from the Yahoo Flickr Creative Commons 100 Million (YFCC100M) dataset (Thomee et al., 2016). This subset is restricted to geotagged posts for the city of Dresden and is used to demonstrate the functionality of our codebase and methodological framework.
+
+**Reference:**
+ _Thomee, B., Shamma, D. A., Friedland, G., Elizalde, B., Ni, K., Poland, D., Borth, D., & Li, L.-J. (2016). YFCC100M: The New Data in Multimedia Research. https://doi.org/10.1145/2812802_
     
 ## Materials
 This repository provides the materials to reproduce the results and visualizations from the paper as follows:
