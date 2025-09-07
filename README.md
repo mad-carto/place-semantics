@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17073248.svg)](https://doi.org/10.5281/zenodo.17073248)
+
 This repository accompanies the study:
 # From Public Discourse to Place Semantics: Modeling Semantic Similarity of Places using Geosocial Media Data
 to be published in the International Journal of Geographic Information Science
