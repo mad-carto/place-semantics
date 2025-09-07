@@ -62,3 +62,11 @@ Generated within:
 - TopicQueryDemo_PlaceBasedSemanticSearch.ipynb (Figure 11)
 - PlaceQueryDemo_PlaceBasedSemanticSearch.ipynb (Figure 12)
 - Interactive maps (.html) for Figure 10 to 12 in folder 03_Visualizations
+
+
+## 📚 How to Cite
+
+If you use this repository, please cite the associated article
+
+**Article (status: in press / forthcoming)**  
+> Gugulica and Burghardt. 2005. “From Public Discourse to Place Semantics: Modeling Semantic Similarity of Places using Geosocial Media Data” *International Journal of Geographical Information Science (IJGIS). * **In Press** DOI to be added upon publication.
